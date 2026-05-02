@@ -1,4 +1,4 @@
-#footer {
+.footer {
   background: #2e2f42;
 }
 .logo {
@@ -6,7 +6,7 @@
   font-weight: 700;
   font-size: 18px;
   color: #f4f4fd;
-  line-height: 117%;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -15,13 +15,13 @@
   font-weight: 700;
   font-size: 18px;
   color: #4d5ae5;
-  line-height: 117%;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 .footer-description {
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
