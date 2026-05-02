@@ -1,7 +1,7 @@
-#hero {
+.hero {
   background: #2e2f42;
 }
-#hero h1 {
+.hero-title {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -9,7 +9,7 @@
   text-align: center;
   color: #fff;
 }
-#hero button {
+.hero-button {
   box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
   background: #4d5ae5;
   cursor: pointer;
@@ -19,7 +19,7 @@
   letter-spacing: 0.04em;
   color: #fff;
 }
-#hero button:hover,
-#hero button:focus {
+.hero-button:hover,
+.hero-button:focus {
   background: #404bbf;
 }

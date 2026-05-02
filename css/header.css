@@ -3,7 +3,7 @@ header .logo {
   font-weight: 700;
   font-size: 18px;
   color: #2e2f42;
-  line-height: 1.17;
+  line-height: 1.33;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -12,7 +12,7 @@ header .logo-1 {
   font-weight: 700;
   font-size: 18px;
   color: #4d5ae5;
-  line-height: 1.17;
+  line-height: 1.33;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
@@ -36,6 +36,7 @@ header .logo-1 {
 }
 .contacts {
   font-family: 'Roboto', sans-serif;
+  font-style: normal;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
